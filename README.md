@@ -18,4 +18,4 @@ here is the description github repository
    }
 ```
 ## License
-basic-webpack-boilerplate is licensed under [The MIT License](LICENSE).
+github-boilerplate-boilerplate is licensed under [The MIT License](LICENSE).
