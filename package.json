@@ -1,0 +1,12 @@
+{
+   "name": "github-boilerplate-boilerplate",
+   "version": "0.0.1",
+   "description": "Github Boilerplate Boilerplate",
+   "author": "Gersom Alaja",
+   "license": "MIT",
+   "homepage": "https://github.com/Gersom/github-boilerplate-boilerplate/",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Gersom/github-boilerplate-boilerplate.git"
+   }
+}
